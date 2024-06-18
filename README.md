@@ -10,7 +10,7 @@ Goals:
 - [ ] Set up linting and styling
 
 Potential extras:
-- Pre-commit hooks for running tests
+- Pre-commit hooks for linting, styling and running tests
 
 ## Setup
 
