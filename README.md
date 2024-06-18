@@ -8,9 +8,11 @@ This repo is to be used as a reference and learning opportunity to set up a play
 
 Goals:
 - [ ] Page object model and fixtures
-- [ ] CI enabled runs on different platforms with GitHub Actions
+- [x] CI enabled runs
+- [ ] CI on different platforms
+- [ ] CI Sharding
+- [ ] CI Publish Playwright reports with github pages
 - [x] Dependency management with Renovate
-- [ ] Publish Playwright reports with github pages
 - [ ] Set up linting and styling
 
 Potential extras:
