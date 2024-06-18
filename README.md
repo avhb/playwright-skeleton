@@ -2,12 +2,14 @@
 
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/avhb/playwright-skeleton/playwright.yml?branch=main&logo=playwright&label=Playwright%20Tests)
 
+[Renovate Dashboard](https://developer.mend.io/github/avhb/playwright-skeleton)
+
 This repo is to be used as a reference and learning opportunity to set up a playwright project from scratch.
 
 Goals:
 - [ ] Page object model and fixtures
 - [ ] CI enabled runs on different platforms with GitHub Actions
-- [ ] Dependency management with Renovate
+- [x] Dependency management with Renovate
 - [ ] Publish Playwright reports with github pages
 - [ ] Set up linting and styling
 
