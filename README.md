@@ -1,5 +1,7 @@
 # Playwright Skeleton Project AVHB
 
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/avhb/playwright-skeleton/playwright.yml?branch=main&logo=playwright&label=Playwright%20Tests)
+
 This repo is to be used as a reference and learning opportunity to set up a playwright project from scratch.
 
 Goals:
