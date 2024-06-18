@@ -7,6 +7,7 @@ Goals:
 - [ ] CI enabled runs on different platforms with GitHub Actions
 - [ ] Dependency management with Renovate
 - [ ] Publish Playwright reports with github pages
+- [ ] Set up linting and styling
 
 Potential extras:
 - Pre-commit hooks for running tests
