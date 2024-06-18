@@ -42,3 +42,9 @@ Potential extras:
 - create empty git repo
 - add `.nvmrc`
 - `npm init playwright@latest`
+
+### Renovate configuration
+
+- install github app and give it access to your repo: https://github.com/apps/renovate
+- onboarding: https://docs.renovatebot.com/getting-started/installing-onboarding/#repository-onboarding
+- dashboard: https://developer.mend.io/github/avhb
